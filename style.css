@@ -1,0 +1,26 @@
+body {
+    font-family: "Mónaco";
+    background-color: Azur;
+}
+h1 {
+    text-align: center;
+  }
+h2 {
+    color: purple;
+    text-align: center;
+  }
+  table {
+    border: 3px solid darkviolet;
+    width: 1000px;
+    margin: 0 auto;
+  }
+  thead {
+      background-color: mediumorchid;
+  }
+  td {
+      border-top: 1px solid darkviolet;
+  }
+  .nodo {
+      font-family: monospace;
+      background-color: beige;
+  }
